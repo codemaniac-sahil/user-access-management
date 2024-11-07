@@ -89,3 +89,5 @@ The User Access Management System (UAMS) is a web-based application designed to 
    - `user_id`, `software_id`, `access_type`, `reason`, `status` (Pending, Approved, Rejected)
 
 ---
+
+Demo link: [https://drive.google.com/file/d/1O4MY7DM4ovUWrz7pguuYpNyVhAJ0xpQj/view?usp=sharing](https://drive.google.com/file/d/1O4MY7DM4ovUWrz7pguuYpNyVhAJ0xpQj/view?usp=sharing)
